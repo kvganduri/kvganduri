@@ -51,14 +51,38 @@ I'm an **AI & Robotics Engineering Leader** with **5+ years** of experience dire
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Projects
 
-| Project | Description | Year |
-|--------|-------------|------|
-| 🚁 **UAV Pothole Detection** | Autonomous drone system (YOLOv8 + Raspberry Pi) for real-time road damage detection with GPS geo-tagging | 2025 |
-| 🤖 **WOXBOTS Swarm Platform** | Low-cost multi-robot swarm for autonomous navigation & search-and-rescue — published in *Journal of Field Robotics* (Q1) | 2025 |
-| 🏭 **AI Warehouse Robot** | Pick-and-place warehouse automation robot — published in *Journal of Electrical Systems* | 2024 |
-| 🔍 **Drone Structural Inspection** | YOLOv8-based wall crack & pipeline flaw detection with GPS-based defect localization | 2023–2025 |
+### 🛸 UAV & Drone Systems
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [🚁 UAV-Pothole-Detection](https://github.com/kvganduri/UAV-Pothole-Detection) | Autonomous drone (YOLOv8 + Raspberry Pi) for real-time road damage detection with GPS geo-tagging | ![Status](https://img.shields.io/badge/2025-Active-brightgreen?style=flat-square) |
+| [🔍 Drone-Wall-Crack-Detection](https://github.com/kvganduri/Drone-Wall-Crack-Detection) | YOLOv8-based structural wall crack inspection with GPS-based defect localization | ![Status](https://img.shields.io/badge/2024-Active-brightgreen?style=flat-square) |
+| [🛢️ Drone-Pipeline-Inspection](https://github.com/kvganduri/Drone-Pipeline-Inspection) | Autonomous drone for gas pipeline flaw detection with GPS-based defect localization | ![Status](https://img.shields.io/badge/2024-Active-brightgreen?style=flat-square) |
+| [🌾 Agricultural-Drone](https://github.com/kvganduri/Agricultural-Drone) | AI-based crop disease detection drone with precision spraying and field monitoring | ![Status](https://img.shields.io/badge/2024-Active-brightgreen?style=flat-square) |
+| [🔥 Firefighting-Drone](https://github.com/kvganduri/Firefighting-Drone) | Autonomous firefighting drone with real-time fire detection and suppression system | ![Status](https://img.shields.io/badge/2023-Active-brightgreen?style=flat-square) |
+
+### 🤖 Robotics & Automation
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [🤖 KV-Swarm-Robots](https://github.com/kvganduri/KV-Swarm-Robots) | Low-cost swarm robotics platform for pattern formation & path planning — *Journal of Field Robotics* (Q1) | ![Status](https://img.shields.io/badge/Published-Q1-blue?style=flat-square) |
+| [🏭 AI-Warehouse-Robot](https://github.com/kvganduri/AI-Warehouse-Robot) | AI-powered pick-and-place warehouse automation robot — *Journal of Electrical Systems* (2024) | ![Status](https://img.shields.io/badge/Published-2024-blue?style=flat-square) |
+| [🌡️ Autonomous-Climate-Control-Robot](https://github.com/kvganduri/Autonomous-Climate-Control-Robot) | AI robot with adaptive person-specific climate control and environmental management | ![Status](https://img.shields.io/badge/Patent-2026-gold?style=flat-square) |
+
+### 🏭 Industry 4.0 & Smart Manufacturing
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [🧵 AI-Textile-Defect-Detection](https://github.com/kvganduri/AI-Textile-Defect-Detection) | Computer vision system for automated textile defect detection replacing manual QA | ![Status](https://img.shields.io/badge/Industry-Deployed-orange?style=flat-square) |
+| [📦 Automated-Sorting-Conveyor](https://github.com/kvganduri/Automated-Sorting-Conveyor) | AI-powered conveyor sorting system with computer vision for industrial classification | ![Status](https://img.shields.io/badge/2023-Active-brightgreen?style=flat-square) |
+
+### 🌱 AgriTech & Patented Systems
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [🚜 FarmXpert](https://github.com/kvganduri/FarmXpert) | Autonomous agricultural robot with AI disease detection and smart irrigation control | ![Status](https://img.shields.io/badge/Patent-2025-gold?style=flat-square) |
 
 ---
 
@@ -74,11 +98,13 @@ I'm an **AI & Robotics Engineering Leader** with **5+ years** of experience dire
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kvganduri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kvganduri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvganduri&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
